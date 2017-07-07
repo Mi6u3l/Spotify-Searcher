@@ -1,0 +1,10 @@
+[0mGET / [32m200 [0m16.442 ms - 669[0m
+[0mGET /css/main.css [36m304 [0m1.847 ms - -[0m
+[0mGET /images/home-heading.jpg [36m304 [0m1.086 ms - -[0m
+[0mPOST /artists [32m200 [0m333.053 ms - 8545[0m
+[0mGET /css/main.css [36m304 [0m0.379 ms - -[0m
+[0mGET /images/emptyAlbum.png [36m304 [0m0.380 ms - -[0m
+[0mGET /albums/7MhMgCo0Bl0Kukl93PZbYS [32m200 [0m237.537 ms - 9025[0m
+[0mGET /css/main.css [36m304 [0m0.370 ms - -[0m
+[0mGET /tracks/5xXVH18zf3cRPqoe8LmQW2 [32m200 [0m238.279 ms - 1895[0m
+[0mGET /css/main.css [36m304 [0m0.608 ms - -[0m
